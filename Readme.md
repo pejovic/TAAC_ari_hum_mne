@@ -1,0 +1,31 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# Aridity raster analysis for paper “Spatial and temporal variations of aridity-humidity indices in Montenegro”, Theoretical and Applied Climatology, 2024
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+Description: R scripts and data for paper “Spatial and temporal
+variations of aridity-humidity indices in Montenegro”, Theoretical and
+Applied Climatology, 2024.  
+Authors:
+
+Corresponding author: Jelena Luković <jelena.lukovic@gef.bg.ac.rs>
+University of Belgrade RS
+
+Dragan Burić <buric.d@ucg.ac.me> University of Montenegro ME
+
+Jovan Mihajlović <millennijum@hotmail.com>
+
+Milutin Pejović <mpejovic@grf.bg.ac.rs> University of Belgrade RS
+University of Belgrade, Faculty of Civil Engineering, Department of
+geodesy and geoinformatics
+
+This work presents the R script for the raster analysis of Aridity
+indices in Montenegro, carried out as part of the research work “Spatial
+and temporal variations of aridity-humidity indices in Montenegro”.
+
+## Contact
+
+Please file bug reports and feature requests send as email at mp
