@@ -13,6 +13,8 @@ knitr::opts_chunk$set(
   out.width = "100%"
 )
 ```
+
+
 # Aridity raster analysis for paper "Spatial and temporal variations of aridity-humidity indices in Montenegro", Theoretical and Applied Climatology, 2024
 
 <!-- badges: start -->
